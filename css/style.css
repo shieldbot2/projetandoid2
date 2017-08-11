@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+.d-block{
+  border:1px solid grey;
+  border-width:1px 0 1px 0;
+  border-radius: 20px;
+  margin-top:5px;
+  text-decoration: none;
+  color:black;
+}
+.mt-3{
+  font-size:0.8rem;
+}
+.d-block:hover{
+  border:1px solid grey;
+  text-decoration: none;
+}
+.display{
+  display:flex;
+  justify-content: space-around;
+=======
 html {
   background: grey;
 }
@@ -53,4 +73,5 @@ header p {
 a {
   text-decoration: none;
   color: #465065;
+>>>>>>> 27445c19561daddb6f349b23b60f5b85ef1465e9
 }
